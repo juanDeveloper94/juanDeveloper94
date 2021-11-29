@@ -1,4 +1,4 @@
-# juandaCode 
+# juandaCode 👩‍💻
 Hello There 👏 I'm Software Development<br>
 My name is Juan Daniel. I'm from Medellin colombia 🇨🇴<br>
 I am currently Doing my internship in software development.<br>
@@ -8,8 +8,9 @@ and play the guitar and about Traveling 😊.
 💻 <strong>Technologies</strong>
 <br><br>
 💫 Frontend Development<br>
-💥 Html 
-💥 Css
+💥 Html5
+💥 Css3
+💥 Figma
 💥 JavaScript
 💥 Bootstrap
 💥 React
