@@ -1,4 +1,4 @@
-# juanDeveloper94 😇
+# juandaCode 
 Hello There 👏 I'm Software Development<br>
 My name is Juan Daniel. I'm from Medellin colombia 🇨🇴<br>
 I am currently Doing my internship in software development.<br>
@@ -12,7 +12,7 @@ and play the guitar and about Traveling 😊.
 💥 Css
 💥 JavaScript
 💥 Bootstrap
-💥 Angular
+💥 React
 <br><br>
 💫 Backend Development<br>
 💥 .Net
@@ -23,17 +23,17 @@ and play the guitar and about Traveling 😊.
 💫 DDBMS<br>
 💥 MySql
 💥 Sql Server
+💥 MongoDB
 <br><br>
 💫 Mobile Development<br>
-💥 Kotlin
+💥 React Native
 <br><br>
 💫 VideoGames Development<br>
 💥 Unity
 <br><br>
 💪 coming soon 💪<br>
-💥 C++ Unreal Engine
-💥 Node Js
-💥 React + React Native
+💥 VueJs
+💥 NodeJs
 
 
 
