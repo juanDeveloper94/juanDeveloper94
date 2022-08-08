@@ -8,17 +8,18 @@ and play the guitar and about Traveling 😊.
 💻 <strong>Technologies</strong>
 <br><br>
 💫 Frontend Development<br>
-💥 Html5
-💥 Css3
+💥 HTML
+💥 CSS
 💥 Figma
 💥 JavaScript
 💥 Bootstrap
-💥 React
+💥 Angular
 <br><br>
 💫 Backend Development<br>
+💥 NodeJS
+💥 Typescript
 💥 .Net
 💥 C#
-💥 Java
 💥 Python
 <br><br>
 💫 DDBMS<br>
@@ -27,14 +28,15 @@ and play the guitar and about Traveling 😊.
 💥 MongoDB
 <br><br>
 💫 Mobile Development<br>
-💥 React Native
+💥 Ionic
 <br><br>
 💫 VideoGames Development<br>
 💥 Unity
 <br><br>
 💪 coming soon 💪<br>
 💥 VueJs
-💥 NodeJs
+💥 Patrones de Diseño
+💥 NestJS
 
 
 
